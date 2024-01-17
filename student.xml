@@ -1,0 +1,21 @@
+<?xml-stylesheet type="text/xsl" href =" student.xsl" ?>
+
+<class>
+<student>
+<firstname> Asim </firstname>
+<lastname> Ali </lastname>
+<section> 11th </class>
+</student>
+
+<student>
+<firstname> Imtiaz </firstname>
+<lastname> Ali </lastname>
+<section> 12th </class>
+</student>
+
+<student>
+<firstname> Salman </firstname>
+<lastname> Diljan </lastname>
+<section> 10th </class>
+</student>
+</class>
